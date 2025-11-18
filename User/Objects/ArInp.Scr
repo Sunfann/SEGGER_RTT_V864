@@ -1,0 +1,3 @@
+--create .\Objects\SEGGER_RTT_V864.lib
+.\objects\segger_rtt.o
+.\objects\segger_rtt_printf.o

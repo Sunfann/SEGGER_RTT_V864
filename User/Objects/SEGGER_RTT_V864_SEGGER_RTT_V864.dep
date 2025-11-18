@@ -1,0 +1,14 @@
+Dependencies for Project 'SEGGER_RTT_V864', Target 'SEGGER_RTT_V864': (DO NOT MODIFY !)
+F (..\RTT\SEGGER_RTT.c)(0x68B013FE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\Config -I..\RTT-I C:\Users\sfann\Desktop\新建文件夹\RTT\RTT\SEGGER_RTT_V864\User\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.5.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F405xx-o .\objects\segger_rtt.o --omf_browse .\objects\segger_rtt.crf --depend .\objects\segger_rtt.d)
+I (..\RTT\SEGGER_RTT.h)(0x68B013FF)
+I (..\Config\SEGGER_RTT_Conf.h)(0x68B013FE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5475F2FA)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x5475F300)
+F (..\RTT\SEGGER_RTT_printf.c)(0x6915E2DD)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I..\Config -I..\RTT-I C:\Users\sfann\Desktop\新建文件夹\RTT\RTT\SEGGER_RTT_V864\User\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.5.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F405xx-o .\objects\segger_rtt_printf.o --omf_browse .\objects\segger_rtt_printf.crf --depend .\objects\segger_rtt_printf.d)
+I (..\RTT\SEGGER_RTT.h)(0x68B013FF)
+I (..\Config\SEGGER_RTT_Conf.h)(0x68B013FE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5475F2FA)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
