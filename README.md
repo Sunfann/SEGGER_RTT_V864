@@ -22,3 +22,7 @@ https://wiki.segger.com/RTT
     * `Main_RTT_MenuApp.c`         - Example application to demonstrate RTT bi-directional functionality.
     * `Main_RTT_PrintfTest.c`      - Example application to test RTT's simple printf implementation.
     * `Main_RTT_SpeedTestApp.c`    - Example application to measure RTT performance. (Requires embOS)
+	
+	
+	
+## 已修改SEGGER_RTT_Printf.c，适用于浮点数输出
