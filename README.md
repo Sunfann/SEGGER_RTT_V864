@@ -26,3 +26,10 @@ https://wiki.segger.com/RTT
 	
 	
 ## 已修改SEGGER_RTT_Printf.c，适用于浮点数输出
+
+# 附录
+	* 基于RTT调试接口的项目适配性的lib库化实现与工程应用
+	https://blog.csdn.net/qq_38364548/article/details/154918801
+	
+	* 嵌入式调试利器：SEGGER RTT 常用函数详解、实战技巧（J-Scope工具）与项目用例
+	https://blog.csdn.net/qq_38364548/article/details/154848476
